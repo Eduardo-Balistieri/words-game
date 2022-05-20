@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Inter, -apple-system, system-ui, sans-serif;
+}
+
+ul, ol, li {
+  list-style: none;
+}

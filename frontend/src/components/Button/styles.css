@@ -1,0 +1,18 @@
+.custom-btn {
+  font-size: 1rem;
+  border: none;
+  border-radius: 50px;
+  padding: 8px 32px;
+  cursor: pointer;
+  background-image: linear-gradient(25deg, rgb(250, 60, 249) 1.7%, rgb(252, 88, 126) 50.85%, rgb(252, 50, 57) 99.99%);
+  color: white;
+
+  transition: 0.3s;
+}
+
+.custom-btn:hover {
+  opacity: 0.9;
+}
+.custom-btn:active {
+  transform: scale(0.95);
+}
